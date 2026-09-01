@@ -89,3 +89,5 @@ Have questions, suggestions, or need instant remote activation?
 *SCARAB Systems • Universal Precision Engine for Guild Wars 2 • 2026*
 
 </div>
+
+https://www.virustotal.com/gui/file/89b6b12dc6ea512cbbb46e3b70da2333d36ac4e2c1e617389cedc14a9d3bb6ea
