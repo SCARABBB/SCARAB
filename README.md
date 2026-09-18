@@ -8,16 +8,24 @@
 
 [![Version](https://img.shields.io/badge/Version-v1.0.0_Public_Release-00f0ff?style=for-the-badge&logo=windows)](https://github.com/)
 [![Status](https://img.shields.io/badge/Status-Undetected_%26_Operational-39ff14?style=for-the-badge)](https://github.com/)
+[![Cost](https://img.shields.io/badge/Cost-100%25%20FREE-gold?style=for-the-badge)](https://github.com/)
 [![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ejNh7vyDjm)
-[![Store](https://img.shields.io/badge/Store-Buy_License_Pass-FFD700?style=for-the-badge&logo=bitcoin)](https://shoppy.gg/@SCARAB)
+[![Store](https://img.shields.io/badge/Store-Support_The_Dev-FFD700?style=for-the-badge&logo=bitcoin)](https://shoppy.gg/@SCARAB)
 
 </div>
 
 ---
 
+### 🚨 **100% FREE LIFETIME PROJECT** 🚨
+SCARAB is now **entirely FREE** for everyone. I am the sole maker and developer of this project. **If anyone asks you for money or tries to sell you SCARAB, it is a FAKE/SCAM.** 
+
+If you enjoy the absolute fastest mounts, instant fishing, and zero-gravity flight, please consider leaving a review or a small donation to show your support and keep the project alive! 💖
+
+---
+
 ## 🌟 What is SCARAB Pro?
 
-**SCARAB Pro** is an ultra-high performance companion suite engineered from the ground up for **Guild Wars 2 (DirectX 11)**. Designed with zero input latency, smooth look-pitch vector mathematics, and an in-game transparent tactical overlay.
+**SCARAB Pro** is an ultra-high performance companion suite engineered from the ground up for **Guild Wars 2 (DirectX 11)**. Designed with zero input latency, smooth look-pitch vector mathematics, and an in-game transparent tactical overlay. It is the **fastest and most efficient engine of its kind**.
 
 ---
 
@@ -26,20 +34,20 @@
 ### 🦅 3D Natural Free-Flight Matrix
 * **Look-Pitch Vector Dynamics**: True zero-gravity 3D flight following your camera's exact look angle.
 * **Instant Re-Launch & Mid-Air Takeoff**: Take off from anywhere in mid-air with zero fall damage.
-* **Overclock Speed Multiplier**: Smoothly scale movement speed from 1.0x to 10.0x with smooth deceleration.
+* **Overclock Speed Multiplier**: Smoothly scale movement speed from 1.0x to 10.0x with smooth deceleration. The fastest flight engine available.
 
 ### 🎪 Jumping Puzzle End Chest Teleporter
 * **43+ Built-in Jumping Puzzles**: Instant one-click teleport directly to the grand chest and finish line.
 * **Region Filtering**: Filter by Kryta, Ascalon, Maguuma, Shiverpeaks, Orr, and Desert zones.
 
 ### 🐉 Infinite Mount Stamina & Overdrive
-* **Endless Skyscale Thrust**: Permanently fly higher and longer with instant energy regeneration.
+* **Endless Skyscale Thrust**: Permanently fly higher and longer with instant energy regeneration. The fastest mount capabilities in the game.
 * **Roller Beetle Turbo Boost**: Continuous boost and high-speed drift physics without stamina cooldowns.
 * **Raptor, Jackal & Warclaw**: Instant infinite leap distance.
 
 ### 🎣 4-Hook Precision Fishing Engine
 * **Instant Catch Automation**: Automated hook-bite detection and instant minigame completion.
-* **Tension Freeze**: Prevents line breaks and eliminates fishing bar decay.
+* **Tension Freeze**: Prevents line breaks and eliminates fishing bar decay. The most efficient and fastest fishing bot.
 
 ### 🖥️ In-Game Transparent Tactical HUD Overlay
 * **Frameless Glow**: Ultra-crisp, non-intrusive in-game overlay rendering your real-time XYZ coordinates, speed, and active modules.
@@ -56,31 +64,17 @@ Download the latest verified package from the **[Releases Tab](https://github.co
 1. Start **Guild Wars 2 (64-bit)** and log into any character.
 2. Run `Launch_SCARAB.bat` (or `SCARAB.exe`).
 
-### Step 3: Activate Your License
-* Click the gold **`🔑 LICENSE`** button at the top right of the SCARAB client menu.
-* Paste your cryptographic serial key purchased from our **[Official Store](https://shoppy.gg/@SCARAB)** and click **`⚡ REDEEM CODE`**.
-* All 8 cheat modules unlock immediately!
+### Step 3: Enjoy For Free!
+* **SCARAB is 100% free and unlocked forever.** All 8 cheat modules are unlocked immediately. No keys, no subscriptions, and no bullshit!
 
 ---
 
-## 👑 Membership Passes & Tiers
+## 💖 Support the Developer
 
-| Pass Tier | Duration | Features | Purchase Link |
-| :--- | :--- | :--- | :--- |
-| **🎟️ 1-Week Mini Pass** | 7 Days | Full Pro Cheats & In-Game HUD | [**Buy ($9.99)**](https://shoppy.gg/@SCARAB) |
-| **⭐ 1-Month Pro Pass** | 30 Days | Full Pro Cheats + Priority Updates | [**Buy ($19.99)**](https://shoppy.gg/@SCARAB) |
-| **🔥 3-Month Seasonal Pass** | 90 Days | Full Pro Cheats + Seasonal Discord Role | [**Buy ($49.99)**](https://shoppy.gg/@SCARAB) |
-| **👑 Lifetime VIP Master Pass** | Permanent | **Permanent Unlimited Access + All Future Updates** | [**Buy ($89.99)**](https://shoppy.gg/@SCARAB) |
+SCARAB will continue to be actively developed, updated, and maintained for the community. If you enjoy the tool and want to help cover server costs and reverse-engineering time, your support means the world!
 
-*Accepted Gateways: Litecoin (LTC), Bitcoin (BTC), Ethereum (ETH), Credit / Debit / Visa / Mastercard, Cash App.*
-
----
-
-## 💬 Community & 24/7 Support Desk
-
-Have questions, suggestions, or need instant remote activation?
-* 🌐 **Official Discord**: [**discord.gg/ejNh7vyDjm**](https://discord.gg/ejNh7vyDjm)
-* 🛒 **Official Store**: [**shoppy.gg/@SCARAB**](https://shoppy.gg/@SCARAB)
+* 🛒 **Donate / Support**: [**shoppy.gg/@SCARAB**](https://shoppy.gg/@SCARAB)
+* 💬 **Official Discord**: [**discord.gg/ejNh7vyDjm**](https://discord.gg/ejNh7vyDjm)
 
 ---
 
